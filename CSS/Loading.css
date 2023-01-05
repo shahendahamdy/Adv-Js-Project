@@ -1,36 +1,3 @@
-/*loader1 css begins*/
-.main-wrap {
-    color: #fff;
-    height: 100%;
-    display: flex;
-    justify-content:center;
-    align-items:center;    
-}
-
-.main-wrap--white {
-  background-color: var(--dark-Gray);
-}
-
-
-@-webkit-keyframes animate1 {
-
-  50% {
-    -ms-transform: scaleY(0); 
-    -webkit-transform: scaleY(0);
-    transform: scaleY(0);
-
-  }
-}
-
-@keyframes animate1 {
-  50% {
-    -ms-transform: scaleY(0); 
-    -webkit-transform: scaleY(0);
-    transform: scaleY(0);
-  }
-}
-/*loader1 css ends*/
-
 
 cssLoader17 {
 position: relative;
